@@ -1,0 +1,29 @@
+body{
+    background-color: bisque
+}
+#navbar{
+    
+    width: 20%;
+    float:left;
+    height:80px;
+    position: fixed;
+}
+a{
+    display: block;
+    padding-bottom: 15px;
+    text-decoration: none;
+}
+.main-section{
+    float:right;
+    width: 78%;
+    
+}
+header{
+    font-size: 35px;
+
+}
+p{
+    font-size: 20px;
+    color: rgb(8, 24, 6);
+    
+}
